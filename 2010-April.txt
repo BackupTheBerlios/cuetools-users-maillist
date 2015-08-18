@@ -1,0 +1,29 @@
+From tudor at tudorholton.com  Sun Apr 11 07:55:21 2010
+From: tudor at tudorholton.com (Tudor Holton)
+Date: Sun, 11 Apr 2010 15:55:21 +1000
+Subject: [cuetools-users] Status of package
+Message-ID: <4BC16449.6070208@tudorholton.com>
+
+Hey,
+
+What's the current state of this package?  I notice that the last 
+release was in 2006, and the last commit was in 2007 (and that was only 
+to update the copyright).  That's over 2 years ago now.
+
+There are also a few outstanding bugs both reported here and in many 
+distributions.
+
+Has anyone considered shifting bug reporting to Launchpad?  Launchpad 
+would allow bugs to be consolidated upstream.
+
+The bugs don't seem particularly significant codewise.  Would you be 
+interested in having another developer?  I'm a programmer who 
+specialises in GPL and LGPL code and would be willing to take on this 
+package.
+
+Cheers,
+Tudor.
+
+
+
+
